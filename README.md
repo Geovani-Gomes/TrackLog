@@ -1,4 +1,4 @@
-# 🚚 TrackLog - Sistema de Análise de Entregas
+# 🚚 MiniLog - Sistema de Análise de Entregas
 
 ## 📌 Descrição
 Projeto de logística desenvolvido em Python utilizando SQLite.  
@@ -14,7 +14,7 @@ O sistema analisa dados de entregas e gera informações como tempo médio, atra
 
 ---
 
-## Tecnologias utilizadas
+## 👨‍💻 Tecnologias utilizadas
 - Python
 - SQLite
 - Pandas
@@ -23,9 +23,8 @@ O sistema analisa dados de entregas e gera informações como tempo médio, atra
 
 ## ▶️ Como executar o projeto
 
-1. Clone o repositório ou baixe os arquivos
+1. Abra o terminal na pasta do projeto
 
-2. Execute o script para criar o banco:
+2. Execute o comando abaixo para criar o banco de dados:
 ```bash
-
-3. Em seguida, execute o programa principal:python create_db.py
+3. Em seguida, execute o programa principal: python create_db.py
