@@ -1,4 +1,4 @@
-# 🚚 MiniLog - Sistema de Análise de Entregas
+# 🚚 TrackLog - Sistema de Análise de Entregas
 
 ## 📌 Descrição
 Projeto de logística desenvolvido em Python utilizando SQLite.  
