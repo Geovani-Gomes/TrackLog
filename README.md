@@ -27,4 +27,6 @@ O sistema analisa dados de entregas e gera informações como tempo médio, atra
 
 2. Execute o comando abaixo para criar o banco de dados:
 ```bash
-3. Em seguida, execute o programa principal: python create_db.py
+python create_db.py
+
+3. Em seguida, execute o programa principal: python main.py
